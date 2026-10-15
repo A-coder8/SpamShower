@@ -54,11 +54,5 @@ The exact prediction depends on the trained model and preprocessing pipeline.
 ## Dataset
 This project uses the **SMS Spam Collection** dataset. Include the dataset source and any required attribution in your documentation. Check its current terms before redistributing the data.
 
-## What I learned
-- Text preprocessing and feature extraction
-- Count-based features vs. TF-IDF
-- Training and comparing classification algorithms
-- Evaluation with confusion matrix
-
 ## Disclaimer
 This project is for learning and experimentation, not a production-ready security or messaging filter.
