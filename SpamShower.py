@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 # read csv file
 file = pd.read_csv(
-    "~/myproject/Model/Anti sms spam/SMSSpamCollection",
+    "SMSSpamCollection",
     sep="\t",
     header=None,
     names=["label", "message"]
