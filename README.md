@@ -39,7 +39,7 @@ This corresponds to about **97.13% accuracy**. Some spam messages were missed, a
 - Python
 - pandas
 - scikit-learn
-- matplotlib (for plotting the confusion matrix)
+- matplotlib
 
 
 ## Example
