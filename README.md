@@ -8,7 +8,7 @@ A beginner machine-learning project that classifies SMS messages as **spam** or 
 ## Features
 - Text feature extraction with `CountVectorizer` and `TfidfVectorizer`
 - Experiments with Decision Tree, Logistic Regression, and Multinomial Naive Bayes
-- Evaluation using accuracy, precision, recall, F1-score, and a confusion matrix
+- Evaluation using accuracy and a confusion matrix
 - Prediction for a custom SMS message
 
 ## Results
