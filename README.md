@@ -1,7 +1,8 @@
 # SpamShower
 
 A beginner machine-learning project that classifies SMS messages as **spam** or **ham** (not spam).
-**Language:** [فارسی🇮🇷]()
+
+**Language:** [فارسی🇮🇷](https://github.com/A-coder8/SpamShower/blob/main/README.fa.md)
 > Educational project: predictions can be wrong, so this is not a perfect spam filter.
 
 ## Features
