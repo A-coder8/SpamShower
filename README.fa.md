@@ -8,7 +8,7 @@
 ## امکانات
 - تبدیل متن پیامک‌ها به ویژگی‌های عددی با `CountVectorizer` و `TfidfVectorizer`
 - آزمایش الگوریتم‌های Decision Tree، Logistic Regression و Multinomial Naive Bayes
-- ارزیابی با Accuracy، Precision، Recall، F1-score و Confusion Matrix
+- ارزیابی با Accuracy و Confusion Matrix
 - پیش‌بینی اسپم یا عادی بودن یک پیام دلخواه
 
 ## نتایج
